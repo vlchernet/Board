@@ -1,0 +1,3 @@
+# Board
+Another kind of SignalR use for chared whiteboard which has some evident advantages for example client see all the previous pieces of art.
+It would be useful to add the ordinary pencil...
